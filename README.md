@@ -1,16 +1,14 @@
-## Hi there 👋
+## Professional Bio
+Hi, my name's Lucas. I am a Statistics and Economics major and a Data Science Minor at the University of Notre Dame with experience in data analysis, statistical modeling, and visualization. I specialize in predictive modeling and focus on real-world problems, especially in economics and finance.
 
-<!--
-**ldeend/ldeend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills
+- Python
+- Pandas, NumPy, PyTorch, scikit-learn
+- Visualization
+- Office 365
+- Tableau
+- Ethical GenAI usage
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Data Science Portfolio
+  https://github.com/YOURUSERNAME/LASTNAME-Data-Science-Portfolio
