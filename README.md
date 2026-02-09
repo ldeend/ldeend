@@ -12,8 +12,7 @@ Hi, my name's Lucas. I am a **Statistics** and **Economics** Major and a **Data 
 - Ethical GenAI usage
 
 ## Current Projects
-As an avid basketball fan, I am exploring datasets related to college basketball to hopefully make a successful March Madness Bracket. 
-
+As an avid basketball fan, I am exploring datasets related to college basketball to hopefully make a successful March Madness Bracket. Here is the link to the primary dataset I am using: [College Basketball Dataset]((https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset/data)).
 
 ## Goals
 >My end goal is to be technically rigorous, understandable, and trustworthy with my projects, aspects that I think will allow me to thrive as a data science in a future with AI.
