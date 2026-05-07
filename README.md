@@ -13,8 +13,11 @@ Hi, my name's Lucas. I am a **Statistics** and **Economics** Major and a **Data 
 
 ## Technical Skills
 **Languages:** Python, R, SQL, MATLAB (in progress)
+
 **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, SciPy  
-**Tools:** Streamlit, Jupyter, Tableau, Git, Office 365  
+
+**Other Tools:** Streamlit, Jupyter, Tableau, Git, Office 365  
+
 **Concepts:** Supervised & Unsupervised ML, Tidy Data, Statistical Modeling, Data Visualization
 
 
